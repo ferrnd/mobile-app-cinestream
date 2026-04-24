@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nome": "Stranger Things",
+    "descricao": "Quando um garoto desaparece, sua cidade descobre um mistério que envolve experimentos secretos, forças sobrenaturais aterrorizantes e uma menina muito estranha.",
+    "imagem": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDh.jpg",
+    "categoria": "Ficção Científica · Terror",
+    "ano": 2016,
+    "avaliacao": 8.7
+  },
+  {
+    "id": 2,
+    "nome": "Breaking Bad",
+    "descricao": "Um professor de química do ensino médio com câncer terminal se transforma em um fabricante de metanfetamina ao lado de um ex-aluno para garantir o futuro de sua família.",
+    "imagem": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+    "categoria": "Drama · Crime",
+    "ano": 2008,
+    "avaliacao": 9.5
+  },
+  {
+    "id": 3,
+    "nome": "Dark",
+    "descricao": "Uma trama de viagem no tempo que conecta quatro famílias interligadas em uma cidade alemã enquanto tentam resolver um mistério que atravessa gerações e dimensões.",
+    "imagem": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+    "categoria": "Ficção Científica · Mistério",
+    "ano": 2017,
+    "avaliacao": 8.8
+  },
+  {
+    "id": 4,
+    "nome": "The Last of Us",
+    "descricao": "Num mundo pós-apocalíptico devastado por um fungo que transforma humanos em criaturas, um sobrevivente endurecido é encarregado de proteger uma jovem imune.",
+    "imagem": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+    "categoria": "Drama · Ação",
+    "ano": 2023,
+    "avaliacao": 8.9
+  },
+  {
+    "id": 5,
+    "nome": "Black Mirror",
+    "descricao": "Série de antologia que explora a relação sombria e viciante da sociedade moderna com a tecnologia, com cada episódio trazendo um futuro distópico diferente.",
+    "imagem": "https://image.tmdb.org/t/p/w500/7PRddO7z7mcPi21nZTCMGShAyy1.jpg",
+    "categoria": "Ficção Científica · Drama",
+    "ano": 2011,
+    "avaliacao": 8.3
+  },
+  {
+    "id": 6,
+    "nome": "Chernobyl",
+    "descricao": "A história real do desastre nuclear de Chernobyl em 1986 e os sacrifícios feitos para conter um dos maiores acidentes da história da humanidade.",
+    "imagem": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "categoria": "Drama · Histórico",
+    "ano": 2019,
+    "avaliacao": 9.4
+  }
+]

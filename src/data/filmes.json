@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nome": "O Poderoso Chefão",
+    "descricao": "A história da família mafiosa Corleone, liderada pelo patriarca Vito Corleone, enquanto seu filho mais novo Michael assume o controle da família após um atentado.",
+    "imagem": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsLeMHvnmxHDr.jpg",
+    "categoria": "Crime · Drama",
+    "ano": 1972,
+    "avaliacao": 9.2
+  },
+  {
+    "id": 2,
+    "nome": "A Viagem de Chihiro",
+    "descricao": "Chihiro, uma menina de 10 anos, acaba entrando em um mundo mágico habitado por espíritos e criaturas sobrenaturais após seus pais serem transformados em porcos.",
+    "imagem": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "categoria": "Animação · Fantasia",
+    "ano": 2001,
+    "avaliacao": 9.0
+  },
+  {
+    "id": 3,
+    "nome": "Interestelar",
+    "descricao": "Um grupo de astronautas viaja pelo universo em busca de um novo lar para a humanidade, passando por buracos de minhoca e enfrentando os limites do espaço-tempo.",
+    "imagem": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "categoria": "Ficção Científica",
+    "ano": 2014,
+    "avaliacao": 8.6
+  },
+  {
+    "id": 4,
+    "nome": "Clube da Luta",
+    "descricao": "Um homem insatisfeito com sua vida cotidiana forma um clube de luta clandestino com um vendedor de sabão carismático, o que leva a consequências imprevisíveis.",
+    "imagem": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "categoria": "Drama · Thriller",
+    "ano": 1999,
+    "avaliacao": 8.8
+  },
+  {
+    "id": 5,
+    "nome": "Django Livre",
+    "descricao": "Django, um escravo liberto, se alia a um caçador de recompensas alemão para resgatar sua esposa das garras de um cruel fazendeiro do Mississippi.",
+    "imagem": "https://image.tmdb.org/t/p/w500/5WJnBPPZQHjxRB6L0E9OLYJ4TIo.jpg",
+    "categoria": "Faroeste · Drama",
+    "ano": 2012,
+    "avaliacao": 8.4
+  },
+  {
+    "id": 6,
+    "nome": "Ilha do Medo",
+    "descricao": "Dois agentes federais vão a uma ilha-hospital para investigar o desaparecimento de uma paciente assassina, mas o que encontram abala completamente a realidade.",
+    "imagem": "https://image.tmdb.org/t/p/w500/ppP4oMQCsoAYKGMXAeWkwzehpCh.jpg",
+    "categoria": "Thriller · Mistério",
+    "ano": 2010,
+    "avaliacao": 8.1
+  }
+]
